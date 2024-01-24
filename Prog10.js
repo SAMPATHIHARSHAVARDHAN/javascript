@@ -1,1 +1,1 @@
-//thii is New file for next class of Arrrays
+let a=[1,2,3,4,5];
